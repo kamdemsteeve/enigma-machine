@@ -1,0 +1,19 @@
+{
+  "rotors": 
+    {
+      "RA": "EKMFLGDQVZNTOWYHXUSPAIBRCJ",
+      "RB": "AJDKSIRUXBLHWTMCQGZNPYFVOE",
+      "RC": "BDFHJLCPRTXVZNYEIWGAKMUSQO"
+    },
+
+  "reflecteurs": 
+    {
+     
+     "RFA": {"A":"Y","Y":"A","B":"R","R":"B","C":"U","U":"C","D":"H","H":"D","E":"Q","Q":"E","F":"S","S":"F","G":"L","L":"G","I":"P","P":"I","J":"X","X":"J","K":"N","N":"K","M":"O","O":"M","T":"Z","Z":"T","V":"W","W":"V"},
+     
+     "RFB": {"A":"F","F":"A","B":"V","V":"B","C":"P","P":"C","D":"J","J":"D","E":"I","I":"E","G":"O","O":"G","H":"Y","Y":"H","K":"R","R":"K","L":"Z","Z":"L","M":"X","X":"M","N":"W","W":"N","Q":"T","T":"Q","S":"U","U":"S"}
+     
+    }
+  
+}        
+
